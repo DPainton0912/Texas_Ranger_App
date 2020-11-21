@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a1AEJxkBqu3yxZJmS3/79hY4+uRK60X7kIw+X5bTT9gwflPZcuSobWIJRwh/NhqHwyjyhp2RY1c2lhT/aalcMA==",
+  "dgSpecHash": "bLfEu8KwFy9aRKnFB0NA6H+TgZpOGGebkxyNFrP5JNN+lsB4eKOKpqqhDzyYTUo1UK2wyyqyS33Vg6Qle5SfoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muzra\\source\\repos\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App.Android\\Texas_Ranger_App.Android.csproj",
+  "projectFilePath": "C:\\Users\\muzra\\Documents\\GitHub\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App.Android\\Texas_Ranger_App.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

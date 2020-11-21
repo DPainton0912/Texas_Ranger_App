@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0y3WTQ8hf/WEk7WBwPByAbrTlpcR3mY2MRvvB9W7/m3XWIkwCp5NWPNmd1mvBwnYLn4X0oy/ZQfF6uJl73piQ==",
+  "dgSpecHash": "c0Q6hpcsJmCBHjorhX13dz5PrqlPbovzx1B+dxpe/PTMazYkDMwbV+KcpYgc6dU/OmfopCp5pbHtNFDtS9OK1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\muzra\\source\\repos\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App.csproj",
+  "projectFilePath": "C:\\Users\\muzra\\Documents\\GitHub\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

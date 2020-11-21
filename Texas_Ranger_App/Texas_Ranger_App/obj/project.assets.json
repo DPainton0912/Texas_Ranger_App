@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muzra\\source\\repos\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App.csproj",
+      "projectUniqueName": "C:\\Users\\muzra\\Documents\\GitHub\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App.csproj",
       "projectName": "Texas_Ranger_App",
-      "projectPath": "C:\\Users\\muzra\\source\\repos\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App.csproj",
+      "projectPath": "C:\\Users\\muzra\\Documents\\GitHub\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App.csproj",
       "packagesPath": "C:\\Users\\muzra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muzra\\source\\repos\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App\\obj\\",
+      "outputPath": "C:\\Users\\muzra\\Documents\\GitHub\\Texas_Ranger_App\\Texas_Ranger_App\\Texas_Ranger_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
