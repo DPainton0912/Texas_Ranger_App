@@ -3,7 +3,28 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Texas_Ranger_App.MainTabbedPage">
 
-  <ContentPage Title="Tab 1" />
-  <ContentPage Title="Tab 2" />
-  <ContentPage Title="Tab 3" />
+    <ContentPage Title="MENU">
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Frame BackgroundColor="#00115E">
+                    <Image Source="logo.png" VerticalOptions="CenterAndExpand" HorizontalOptions="Start"/>
+                </Frame>
+                <Frame BackgroundColor="#00115E">
+                    
+                </Frame>
+            </StackLayout>
+            <Frame BackgroundColor="#ffffff" >
+                <Button x:Name="foodButton" Text="Food Menu" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked=""/>
+            </Frame>
+            <Frame BackgroundColor="#900C3F">
+                <Button x:Name="drinksButton" Text="Drinks Menu" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked=""/>
+            </Frame>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Tab 2">
+        <Label Text="Content page 2"/>
+    </ContentPage>
+    <ContentPage Title="Tab 3">
+        <Label Text="Content page 3"/>
+    </ContentPage>
 </TabbedPage>
