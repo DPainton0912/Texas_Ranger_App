@@ -7,17 +7,17 @@
         <StackLayout>
             <StackLayout Orientation="Horizontal">
                 <Frame BackgroundColor="#00115E">
-                    <Image Source="logo.png" VerticalOptions="CenterAndExpand" HorizontalOptions="Start"/>
+                    <Image Source="logo.png" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
                 </Frame>
                 <Frame BackgroundColor="#00115E">
-                    
+                    <Label x:Name="JokeLabel" Text="{Binding Value}" FontSize="25" TextColor="White" />
                 </Frame>
             </StackLayout>
             <Frame BackgroundColor="#ffffff" >
-                <Button x:Name="foodButton" Text="Food Menu" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked=""/>
+                <!--<Button x:Name="foodButton" Text="Food Menu" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked=""/>-->
             </Frame>
             <Frame BackgroundColor="#900C3F">
-                <Button x:Name="drinksButton" Text="Drinks Menu" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked=""/>
+                <!--<Button x:Name="drinksButton" Text="Drinks Menu" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked=""/>-->
             </Frame>
         </StackLayout>
     </ContentPage>
