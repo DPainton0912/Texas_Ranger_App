@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Texas_Ranger_App.FoodMenuPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="35" TextColor="White" Text="Drinks Menu"/>
+            </Frame>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Food"/>
+            </Frame>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White">
+                    <Label.Text>
+Sizzling Steak  -----------------   165
+Mushrooms, Olives, Celery
+Choice of Potatoes, and Coffee
+
+Planked Steak   -----------------   165
+Mushrooms, Hot Peppers, Olives, Celery
+Choice of Potatoes, Grilled Onion, Coffee
+
+Filet Mignon  -------------------   135
+Mushrooms, Olives, Celery
+Choice of Potatoes, Grilled Onion, Coffee
+                    </Label.Text>
+                </Label>
+            </Frame>
+            <Frame BackgroundColor="#ffffff">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White">
+                    <Label.Text>
+Big Small Steak  ----------------   95
+Tomato Juice, Salad
+Choice of Potatoes, Grilled Onion, Coffee
+
+Broiled Pork chops   ------------   70
+Tomato Juice, Salad, Potatoes
+Apple Sauce, Coffee
+
+Large Lamb Chops  ---------------   70
+Tomato Juice, Salad, Potatoes and Coffee
+                    </Label.Text>
+                </Label>
+            </Frame>
+            <Frame BackgroundColor="#900C3F">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White">
+                    <Label.Text>
+Half Barbecued Chicken  ---------   65
+French Fried Potatoes, Cole Slaw
+Bread, Butter and Coffee
+
+Half Fried Chicken  -------------   65
+French Fried Potatoes, Cole Slaw
+Bread, Butter and Coffee
+
+Barbecued Ribs  -----------------   50
+French Fried Potatoes, Cole Slaw
+Bread, Butter and Coffee
+                    </Label.Text>
+                </Label>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

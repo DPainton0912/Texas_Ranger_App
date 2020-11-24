@@ -36,5 +36,20 @@ namespace Texas_Ranger_App
 
             return joke;
         }
+
+        private void OnNoteAddedClicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private async void drinksButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new DrinksMenuPage());
+        }
+
+        private async void foodButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new FoodMenuPage());
+        }
     }
 }
