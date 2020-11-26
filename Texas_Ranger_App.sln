@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texas_Ranger_App.Android", "Texas_Ranger_App\Texas_Ranger_App.Android\Texas_Ranger_App.Android.csproj", "{359C1A48-04E6-4492-90F0-291CDC54861A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texas_Ranger_App", "Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.csproj", "{2045321D-7EDB-4E38-91A4-D2EA2D28E8FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Texas_Ranger_App", "Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.csproj", "{2045321D-7EDB-4E38-91A4-D2EA2D28E8FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texas_Ranger_App.UITest", "UITest\Texas_Ranger_App.UITest.csproj", "{3778BAA1-2934-4301-B110-FC1393268C17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{2045321D-7EDB-4E38-91A4-D2EA2D28E8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2045321D-7EDB-4E38-91A4-D2EA2D28E8FA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2045321D-7EDB-4E38-91A4-D2EA2D28E8FA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3778BAA1-2934-4301-B110-FC1393268C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3778BAA1-2934-4301-B110-FC1393268C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3778BAA1-2934-4301-B110-FC1393268C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3778BAA1-2934-4301-B110-FC1393268C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
