@@ -14,6 +14,7 @@ C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_A
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\res.flag
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\R.txt
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\R.cs.flag
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\Texas_Ranger_App.Android.csproj.CoreCompileInputs.cache
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\XamlC.stamp
@@ -40,12 +41,12 @@ C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_A
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
-C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\R.txt
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\uploadflags.txt
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\resolvedassemblies.hash
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\machine.config
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\Mono.Android.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\Mono.Android.pdb
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\Mono.Security.dll
@@ -55,6 +56,12 @@ C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_A
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\netstandard.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\RestSharp.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Buffers.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Core.dll
@@ -70,6 +77,7 @@ C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_A
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Memory.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Net.Http.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Numerics.dll
@@ -77,6 +85,7 @@ C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_A
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Runtime.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
@@ -149,7 +158,6 @@ C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_A
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\AndroidManifest.xml
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\__environment__.txt
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
-C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\assets\machine.config
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\bin\mono.android.jar
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\static.flag
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\buildid.txt
@@ -172,6 +180,7 @@ C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_A
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\com\companyname\texas_ranger_app\R.java
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
@@ -436,7 +445,6 @@ C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_A
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\bin\packaged_resources
-C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\src\com\companyname\texas_ranger_app\R.java
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
 C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App.Android\obj\Debug\90\android\compressed_assemblies.x86.s

@@ -44,17 +44,22 @@ Email: hello@texasrangers.co.nz
     <ContentPage Title="RESERVATIONS">
         <ContentPage.ToolbarItems>
             <ToolbarItem Text="+"
-                     Clicked="OnNoteAddedClicked" />
+                     Clicked="OnReservationAddedClicked" />
         </ContentPage.ToolbarItems>
-        <!--<ListView x:Name="listView"
+        <ListView x:Name="listView"
               Margin="20"
               ItemSelected="OnListViewItemSelected">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    --><!--<TextCell Text="{Binding Text}"
-                          Detail="{Binding Date}" />--><!--
+                    <ViewCell>
+                        <StackLayout>
+                            <Label Text="{Binding Name}"/>
+                            <Label Text="{Binding Guests}"/>
+                            <Label Text="{Binding Date}"/>
+                        </StackLayout>
+                    </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
-        </ListView>-->
+        </ListView>
     </ContentPage>
 </TabbedPage>
