@@ -5,7 +5,10 @@
     <ContentPage.Content>
         <StackLayout>
             <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="35" TextColor="White" Text="Food Menu"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="35" TextColor="White" Text="Drinks Menu"/>
+            </Frame>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Food"/>
             </Frame>
             <Frame BackgroundColor="#00115E">
                 <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White">
@@ -25,7 +28,7 @@ Choice of Potatoes, Grilled Onion, Coffee
                 </Label>
             </Frame>
             <Frame BackgroundColor="#ffffff">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="Black">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White">
                     <Label.Text>
 Big Small Steak  ----------------   95
 Tomato Juice, Salad

@@ -19,19 +19,12 @@ namespace Texas_Ranger_App
         public MainTabbedPage()
         {
             InitializeComponent();
-            JokeLabel.BindingContext = GetJoke();
+            JokeLabel.BindingContext = GetJokes();
         }
 
-        protected override async void OnAppearing()
+        private Jokes GetJokes()
         {
-            base.OnAppearing();
-
-            listView.ItemsSource = await App.Database.GetReservationsAsync();
-        }
-
-        private Joke GetJoke()
-        {
-            Joke joke;
+            Jokes joke;
 
             var client = new RestClient("https://api.chucknorris.io/jokes/random");
             var request = new RestRequest(Method.GET);
@@ -39,28 +32,14 @@ namespace Texas_Ranger_App
 
             var response = client.Execute(request);
 
-            joke = JsonConvert.DeserializeObject<Joke>(response.Content);
+            joke = JsonConvert.DeserializeObject<Jokes>(response.Content);
 
             return joke;
         }
 
-        private async void OnReservationAddedClicked(object sender, EventArgs e)
+        private void OnNoteAddedClicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new ReservationEntryPage
-            {
-                BindingContext = new Reservations()
-            });
-        }
 
-        async void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
-        {
-            if (e.SelectedItem != null)
-            {
-                await Navigation.PushAsync(new ReservationEntryPage
-                {
-                    BindingContext = e.SelectedItem as Reservations
-                });
-            }
         }
 
         private async void drinksButton_Clicked(object sender, EventArgs e)

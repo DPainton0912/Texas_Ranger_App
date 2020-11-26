@@ -10,11 +10,11 @@
                     <Image Source="logo.png" VerticalOptions="CenterAndExpand" HorizontalOptions="StartAndExpand"/>
                 </Frame>
                 <Frame BackgroundColor="#00115E">
-                    <Label x:Name="JokeLabel" Text="{Binding Value}" FontSize="15" TextColor="White" />
+                    <Label x:Name="JokeLabel" Text="{Binding Value}" FontSize="25" TextColor="White" />
                 </Frame>
             </StackLayout>
             <Frame BackgroundColor="#ffffff" >
-                <Button x:Name="drinksButton" Text="Drinks Menu" TextColor="Black" FontSize="28" BackgroundColor="Transparent" Clicked="drinksButton_Clicked" />
+                <Button x:Name="drinksButton" Text="Drinks Menu" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked="drinksButton_Clicked" />
             </Frame>
             <Frame BackgroundColor="#900C3F">
                 <Button x:Name="foodButton" Text="Food Menu" TextColor="White" FontSize="28" BackgroundColor="Transparent" Clicked="foodButton_Clicked"/>
@@ -44,24 +44,17 @@ Email: hello@texasrangers.co.nz
     <ContentPage Title="RESERVATIONS">
         <ContentPage.ToolbarItems>
             <ToolbarItem Text="+"
-                     Clicked="OnReservationAddedClicked" />
+                     Clicked="OnNoteAddedClicked" />
         </ContentPage.ToolbarItems>
-        <ListView x:Name="listView"
+        <!--<ListView x:Name="listView"
               Margin="20"
               ItemSelected="OnListViewItemSelected">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ViewCell>
-                        <ViewCell.View>
-                            <StackLayout>
-                                <Label Text="{Binding Name}" TextColor="Black" />
-                                <Label Text="{Binding Guests}" TextColor="Black" />
-                                <Label Text="{Binding Date}" TextColor="Black" />
-                            </StackLayout>
-                        </ViewCell.View>
-                    </ViewCell>
+                    --><!--<TextCell Text="{Binding Text}"
+                          Detail="{Binding Date}" />--><!--
                 </DataTemplate>
             </ListView.ItemTemplate>
-        </ListView>
+        </ListView>-->
     </ContentPage>
 </TabbedPage>
