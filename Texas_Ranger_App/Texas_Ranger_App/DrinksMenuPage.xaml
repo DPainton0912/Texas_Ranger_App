@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Texas_Ranger_App.DrinksMenuPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="35" TextColor="White" Text="Drinks Menu"/>
+            </Frame>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Bonded Whiskey"/>
+            </Frame>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="White">
+                    <Label.Text>
+Old Taylor  ---------------------   40
+Old Overholt  -------------------   40
+Old Grand Dad  ------------------   40
+Old Crow  -----------------------   35
+Old Republic  -------------------   30
+                    </Label.Text>
+                </Label>
+            </Frame>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Bourbon Whiskey"/>
+            </Frame>
+            <Frame BackgroundColor="#00115E">
+                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="White">
+                    <Label.Text>
+Four Roses  ---------------------   35
+Golden Wedding  -----------------   30
+Old Oscar Pepper  ---------------   30
+Bond and Lillard  ---------------   30
+Ten High  -----------------------   25
+                    </Label.Text>
+                </Label>
+            </Frame>
+            <Frame BackgroundColor="#ffffff">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="Black" Text="Blended Whiskey"/>
+            </Frame>
+            <Frame BackgroundColor="#ffffff">
+                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="Black">
+                    <Label.Text>
+Canadian Club  ------------------   40
+Seagram's V.O.C  ----------------   40
+Seagram's 7 Crown  --------------   35
+Seagram's 5 Crown  --------------   30
+Lord Calvert  -------------------   40
+                    </Label.Text>
+                </Label>
+            </Frame>
+            <Frame BackgroundColor="#ffffff">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="Black" Text="Rye Whiskey"/>
+            </Frame>
+            <Frame BackgroundColor="#ffffff">
+                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="Black">
+                    <Label.Text>
+Old Quaker  ---------------------   30
+Golden Wedding  -----------------   30
+Paul Jones  ---------------------   30
+Town Tavern  --------------------   20
+Green River  --------------------   25
+                    </Label.Text>
+                </Label>
+            </Frame>
+            <Frame BackgroundColor="#900C3F">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Wines"/>
+            </Frame>
+            <Frame BackgroundColor="#900C3F">
+                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="White">
+                    <Label.Text>
+Tokay  --------------------------   20
+Port  ---------------------------   20
+Sherry  -------------------------   20
+Muscatel  -----------------------   20
+Virginia Dare Sauternes  --------   25
+                    </Label.Text>
+                </Label>
+            </Frame>
+            <Frame BackgroundColor="#900C3F">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Bottled Beer"/>
+            </Frame>
+            <Frame BackgroundColor="#900C3F">
+                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="White">
+                    <Label.Text>
+Stroh's  ------------------------   30
+Budweiser  ----------------------   30
+Blue Ribbon  --------------------   30
+Carling's Ale  ------------------   25
+                    </Label.Text>
+                </Label>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

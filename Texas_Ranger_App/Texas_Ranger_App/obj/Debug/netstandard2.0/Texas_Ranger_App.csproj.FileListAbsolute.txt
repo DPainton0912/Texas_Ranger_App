@@ -1,0 +1,17 @@
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\bin\Debug\netstandard2.0\Texas_Ranger_App.deps.json
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\bin\Debug\netstandard2.0\Texas_Ranger_App.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\MainTabbedPage.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\Texas_Ranger_App.AssemblyInfoInputs.cache
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\Texas_Ranger_App.AssemblyInfo.cs
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\bin\Debug\netstandard2.0\ref\Texas_Ranger_App.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\bin\Debug\netstandard2.0\Texas_Ranger_App.pdb
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\Texas_Ranger_App.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\ref\Texas_Ranger_App.dll
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\Texas_Ranger_App.pdb
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\DrinksMenuPage.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\FoodMenuPage.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\ReservationEntryPage.xaml.g.cs
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\Texas_Ranger_App.csproj.CoreCompileInputs.cache
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\muzra\Documents\GitHub\Texas_Ranger_App\Texas_Ranger_App\Texas_Ranger_App\obj\Debug\netstandard2.0\Texas_Ranger_App.csprojAssemblyReference.cache
