@@ -5,13 +5,10 @@
     <ContentPage.Content>
         <StackLayout>
             <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="35" TextColor="White" Text="Drinks Menu"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="20" TextColor="White" Text="Food Menu"/>
             </Frame>
             <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Food"/>
-            </Frame>
-            <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="12" TextColor="White">
                     <Label.Text>
 Sizzling Steak  -----------------   165
 Mushrooms, Olives, Celery
@@ -28,7 +25,7 @@ Choice of Potatoes, Grilled Onion, Coffee
                 </Label>
             </Frame>
             <Frame BackgroundColor="#ffffff">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="12" TextColor="Black">
                     <Label.Text>
 Big Small Steak  ----------------   95
 Tomato Juice, Salad
@@ -44,7 +41,7 @@ Tomato Juice, Salad, Potatoes and Coffee
                 </Label>
             </Frame>
             <Frame BackgroundColor="#900C3F">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White">
+                <Label HorizontalOptions="CenterAndExpand" FontSize="12" TextColor="White">
                     <Label.Text>
 Half Barbecued Chicken  ---------   65
 French Fried Potatoes, Cole Slaw

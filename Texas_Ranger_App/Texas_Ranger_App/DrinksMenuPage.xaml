@@ -5,13 +5,13 @@
     <ContentPage.Content>
         <StackLayout>
             <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="35" TextColor="White" Text="Drinks Menu"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="20" TextColor="White" Text="Drinks Menu"/>
             </Frame>
             <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Bonded Whiskey"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White" Text="Bonded Whiskey"/>
             </Frame>
             <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="White">
+                <Label HorizontalOptions="StartAndExpand" FontSize="12" TextColor="White">
                     <Label.Text>
 Old Taylor  ---------------------   40
 Old Overholt  -------------------   40
@@ -22,10 +22,10 @@ Old Republic  -------------------   30
                 </Label>
             </Frame>
             <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Bourbon Whiskey"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White" Text="Bourbon Whiskey"/>
             </Frame>
             <Frame BackgroundColor="#00115E">
-                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="White">
+                <Label HorizontalOptions="StartAndExpand" FontSize="12" TextColor="White">
                     <Label.Text>
 Four Roses  ---------------------   35
 Golden Wedding  -----------------   30
@@ -36,10 +36,10 @@ Ten High  -----------------------   25
                 </Label>
             </Frame>
             <Frame BackgroundColor="#ffffff">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="Black" Text="Blended Whiskey"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="Black" Text="Blended Whiskey"/>
             </Frame>
             <Frame BackgroundColor="#ffffff">
-                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="Black">
+                <Label HorizontalOptions="StartAndExpand" FontSize="12" TextColor="Black">
                     <Label.Text>
 Canadian Club  ------------------   40
 Seagram's V.O.C  ----------------   40
@@ -50,10 +50,10 @@ Lord Calvert  -------------------   40
                 </Label>
             </Frame>
             <Frame BackgroundColor="#ffffff">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="Black" Text="Rye Whiskey"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="Black" Text="Rye Whiskey"/>
             </Frame>
             <Frame BackgroundColor="#ffffff">
-                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="Black">
+                <Label HorizontalOptions="StartAndExpand" FontSize="12" TextColor="Black">
                     <Label.Text>
 Old Quaker  ---------------------   30
 Golden Wedding  -----------------   30
@@ -64,10 +64,10 @@ Green River  --------------------   25
                 </Label>
             </Frame>
             <Frame BackgroundColor="#900C3F">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Wines"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White" Text="Wines"/>
             </Frame>
             <Frame BackgroundColor="#900C3F">
-                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="White">
+                <Label HorizontalOptions="StartAndExpand" FontSize="12" TextColor="White">
                     <Label.Text>
 Tokay  --------------------------   20
 Port  ---------------------------   20
@@ -78,10 +78,10 @@ Virginia Dare Sauternes  --------   25
                 </Label>
             </Frame>
             <Frame BackgroundColor="#900C3F">
-                <Label HorizontalOptions="CenterAndExpand" FontSize="25" TextColor="White" Text="Bottled Beer"/>
+                <Label HorizontalOptions="CenterAndExpand" FontSize="15" TextColor="White" Text="Bottled Beer"/>
             </Frame>
             <Frame BackgroundColor="#900C3F">
-                <Label HorizontalOptions="StartAndExpand" FontSize="15" TextColor="White">
+                <Label HorizontalOptions="StartAndExpand" FontSize="12" TextColor="White">
                     <Label.Text>
 Stroh's  ------------------------   30
 Budweiser  ----------------------   30
